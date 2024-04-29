@@ -14,7 +14,7 @@ Console.WriteLine("calculated " + Perimeter);
     if (Area <= 250)
         Console.WriteLine("calculated this is a small-sized room.");
 
-    else if (25 < Area) _ =(Area < 650);
+    else if (250 < Area) _ =(Area < 650);
    Console.WriteLine("calculated this is a medium-sized room.");
 
 if (650 <= Area)
